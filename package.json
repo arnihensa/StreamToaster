@@ -1,0 +1,23 @@
+{
+  "name": "streamtoaster",
+  "version": "0.0.0",
+  "description": "Description goes here.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnihensa/StreamToaster.git"
+  },
+  "author": "Arni Hensa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnihensa/StreamToaster/issues"
+  },
+  "homepage": "https://github.com/arnihensa/StreamToaster#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
